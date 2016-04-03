@@ -1,22 +1,22 @@
 # 3. Advanced
 
-- Juicio t閏nico
-- [C髆o distinguir lo dif韈il de lo imposible](Technical-Judgment/01-How to Tell the Hard From the Impossible.md)
-- [C髆o usar lenguajes para sistemas incrustados](Technical-Judgment/02-How to Utilize Embedded Languages.md)
-- [C髆o escoger lenguajes](Technical-Judgment/03-Choosing Languages.md)
-- Comprometi閚dose sabiamente
-- [C髆o luchar contra la presi髇 de los horarios](Compromising-Wisely/01-How to Fight Schedule Pressure.md)
-- [C髆o entender al usuario](Compromising-Wisely/02-How to Understand the User.md)
-- [C髆o obtener un ascenso de empleo](Compromising-Wisely/03-How to Get a Promotion.md)
+- Juicio t茅cnico
+- [C贸mo distinguir lo dif铆cil de lo imposible](Technical-Judgment/01-How to Tell the Hard From the Impossible.md)
+- [C贸mo usar lenguajes para sistemas incrustados](Technical-Judgment/02-How to Utilize Embedded Languages.md)
+- [C贸mo escoger lenguajes](Technical-Judgment/03-Choosing Languages.md)
+- Comprometi茅ndose sabiamente
+- [C贸mo luchar contra la presi贸n de los horarios](Compromising-Wisely/01-How to Fight Schedule Pressure.md)
+- [C贸mo entender al usuario](Compromising-Wisely/02-How to Understand the User.md)
+- [C贸mo obtener un ascenso de empleo](Compromising-Wisely/03-How to Get a Promotion.md)
 - Sirviendo a tu equipo
-- [C髆o desarrollar talento](Serving-Your-Team/01-How to Develop Talent.md)
-- [C髆o escoger tu trabajo](Serving-Your-Team/02-How to Choose What to Work On.md)
-- [C髆o aprovechar tus compa馿ros al m醲imo](Serving-Your-Team/03-How to Get the Most From Your Teammates.md)
-- [C髆o dividir los problemas](Serving-Your-Team/04-How to Divide Problems Up.md)
-- [C髆o manejar las tareas aburridoras](Serving-Your-Team/05-How to Handle Boring Tasks.md)
-- [C髆o obtener apoyo para un proyecto](Serving-Your-Team/06-How to Gather Support for a Project.md)
-- [C髆o manejar el crecimiento de un sistema](Serving-Your-Team/07-How to Grow a System.md)
-- [C髆o comunicarse bien](Serving-Your-Team/08-How to Communicate Well.md)
-- [C髆o decirle a la gente lo que no desean escuchar](Serving-Your-Team/09-How to Tell People Things They Don't Want to Hear.md)
-- [C髆o lidiar con los mitos administrativos](Serving-Your-Team/10-How to Deal with Managerial Myths.md)
-- [C髆o lidiar con el caos organizacional](Serving-Your-Team/11-How to Deal with Organizational Chaos.md)
+- [C贸mo desarrollar talento](Serving-Your-Team/01-How to Develop Talent.md)
+- [C贸mo escoger tu trabajo](Serving-Your-Team/02-How to Choose What to Work On.md)
+- [C贸mo aprovechar tus compa帽eros al m谩ximo](Serving-Your-Team/03-How to Get the Most From Your Teammates.md)
+- [C贸mo dividir los problemas](Serving-Your-Team/04-How to Divide Problems Up.md)
+- [C贸mo manejar las tareas aburridoras](Serving-Your-Team/05-How to Handle Boring Tasks.md)
+- [C贸mo obtener apoyo para un proyecto](Serving-Your-Team/06-How to Gather Support for a Project.md)
+- [C贸mo manejar el crecimiento de un sistema](Serving-Your-Team/07-How to Grow a System.md)
+- [C贸mo comunicarse bien](Serving-Your-Team/08-How to Communicate Well.md)
+- [C贸mo decirle a la gente lo que no desean escuchar](Serving-Your-Team/09-How to Tell People Things They Don't Want to Hear.md)
+- [C贸mo lidiar con los mitos administrativos](Serving-Your-Team/10-How to Deal with Managerial Myths.md)
+- [C贸mo lidiar con el caos organizacional](Serving-Your-Team/11-How to Deal with Organizational Chaos.md)
